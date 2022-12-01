@@ -11,6 +11,8 @@ public class Check_Slogan {
   @Test
   public void Slogan() {
 	  
+	  //dd
+	  
 	    System.setProperty("webdriver.chrome.driver", "/Users/itviec/SeleniumDriver/chromedriver");
 		WebDriver driver = new ChromeDriver();
 		
